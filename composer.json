@@ -1,0 +1,15 @@
+{
+    "name": "hillel/solve",
+    "description": "SOlving practice task",
+    "type": "project",
+    "license": "BSD",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "QuizProcessing\\": "src"
+        }
+    },
+    "require": {
+        "php": "7.*.*"
+    }
+}
